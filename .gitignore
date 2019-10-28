@@ -1,3 +1,4 @@
 .env
 *.env
 */react-dashboard/.env
+/react-dashboard/.env
